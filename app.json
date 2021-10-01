@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Timer",
+    "slug": "Timer",
+    "privacy": "public",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eee"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.yakovlev.ds",
+      "versionCode": 1
+    }
+  }
+}
